@@ -1,4 +1,19 @@
 {
-  "boxes": [],
-  "users": []
+  "boxes": [
+    {
+      "id": "4e55f022-7b83-47e5-8bcc-536dc8ccd7d2",
+      "label": "test",
+      "boxNumber": 1,
+      "room": "living_room",
+      "items": [],
+      "notes": "",
+      "sealed": false,
+      "createdBy": "nick",
+      "createdAt": "2026-03-12T12:48:28.120Z",
+      "updatedAt": "2026-03-12T12:48:28.120Z"
+    }
+  ],
+  "users": [
+    "nick"
+  ]
 }
