@@ -1,5 +1,43 @@
 {
-  "boxes": [],
+  "boxes": [
+    {
+      "id": "eddc7dba-4e6d-4c71-87ad-5389dd8f5af4",
+      "label": "Kitchen_01",
+      "boxNumber": 1,
+      "room": "kitchen",
+      "items": [
+        {
+          "id": "9fe83448-65c5-422a-8288-7119480f3532",
+          "name": "Wines",
+          "quantity": 5,
+          "category": "misc",
+          "fragile": true,
+          "notes": ""
+        },
+        {
+          "id": "1df731be-5156-4d62-adcb-a056da3a954e",
+          "name": "Lu Wines",
+          "quantity": 2,
+          "category": "misc",
+          "fragile": true,
+          "notes": "Wines from portugal"
+        },
+        {
+          "id": "e77b2878-9d55-42c6-a869-990221a16c34",
+          "name": "Champagne",
+          "quantity": 1,
+          "category": "misc",
+          "fragile": true,
+          "notes": ""
+        }
+      ],
+      "notes": "[FOR DAIKI] Wine and alcohol collection.\n\nWill transfer manually to Daiki's place and collect uppon moving.",
+      "sealed": false,
+      "createdBy": "nick",
+      "createdAt": "2026-03-12T19:57:39.857Z",
+      "updatedAt": "2026-03-12T19:58:30.915Z"
+    }
+  ],
   "users": [
     "nick"
   ]
