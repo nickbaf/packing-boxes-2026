@@ -36,6 +36,67 @@
       "createdBy": "nick",
       "createdAt": "2026-03-12T19:57:39.857Z",
       "updatedAt": "2026-03-12T19:58:30.915Z"
+    },
+    {
+      "id": "087ac84d-8e6f-4172-8b27-9028084ea3e6",
+      "label": "Kitchen_02",
+      "boxNumber": 2,
+      "room": "kitchen",
+      "items": [
+        {
+          "id": "37f573d2-88b3-403b-a7ea-f5b61e6debff",
+          "name": "Pressure Cooker",
+          "quantity": 1,
+          "category": "misc",
+          "fragile": true,
+          "notes": ""
+        },
+        {
+          "id": "d7dba28e-3974-41d3-9229-a8c9513b0b4c",
+          "name": "Pan",
+          "quantity": 1,
+          "category": "misc",
+          "fragile": false,
+          "notes": ""
+        },
+        {
+          "id": "0d10d8e9-3521-4a0b-bb1b-066b74617642",
+          "name": "Pot",
+          "quantity": 1,
+          "category": "misc",
+          "fragile": false,
+          "notes": ""
+        },
+        {
+          "id": "d9e17824-6d40-4bb5-bf56-bc58107fd144",
+          "name": "Spatoules",
+          "quantity": 1,
+          "category": "misc",
+          "fragile": false,
+          "notes": ""
+        },
+        {
+          "id": "11fa9f0c-4fd6-44f2-93d8-3007ca49ddb3",
+          "name": "Huel pots",
+          "quantity": 2,
+          "category": "misc",
+          "fragile": false,
+          "notes": ""
+        },
+        {
+          "id": "ce79a19a-221c-4df0-909f-40d31e74f9d6",
+          "name": "Oregano and other condiments",
+          "quantity": 3,
+          "category": "misc",
+          "fragile": false,
+          "notes": "Inside presure cooker"
+        }
+      ],
+      "notes": "No fragile or knifes",
+      "sealed": false,
+      "createdBy": "nick",
+      "createdAt": "2026-03-12T19:58:57.690Z",
+      "updatedAt": "2026-03-12T20:00:35.344Z"
     }
   ],
   "users": [
